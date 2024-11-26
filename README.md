@@ -1,7 +1,7 @@
 
 [![GitHub: @gongouveia](https://img.shields.io/github/followers/gongouveia?label=follow&style=social)](https://github.com/gongouveia)
 [![Linkedin: goncalogouveia](https://img.shields.io/badge/-Gonçalo%20Gouveia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gon%C3%A7alo-gouveia/)](https://www.linkedin.com/in/gon%C3%A7alo-gouveia/)
-[![Gmail: gongou00@gmail.com](https://img.shields.io/badge/Gmail-gongou00@-red)](mailto:gongou00@gmail.com)
+[![Gmail: gongou00@gmail.com](https://img.shields.io/badge/Gmail-gongou00@gmail.com-red)](mailto:gongou00@gmail.com)
 
 
 
