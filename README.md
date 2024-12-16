@@ -14,8 +14,8 @@ I'm a dedicated and enthusiastic personCurious and proactive by nature, with a g
 ## ⚙️ Skills
 - **Languages**: Python, Java, C/C++
 - **ML Tools and Frameworks:** Pytorch, TensorFlow, Pandas, Numpy, Jupyter Notebooks, Matplotlib
-- **MLOps & Deployment**: Mlflow, Git, Docker, ONNX, AWS, Modal Labs
 - **Interactive Model Deployemnt**: Gradio, Streamlit
+- **MLOps & Deployment**: Mlflow, Git, Docker, ONNX, AWS, Modal Labs
 - **Other Tools**: OpenCV, Hugging Face, FastAPI, Anaconda
 
 
