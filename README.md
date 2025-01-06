@@ -7,7 +7,7 @@
 
 
 I am a AI/ML Software Engineer with a special interest in  NLP and efficient model deployment. <br>
-I'm a dedicated and enthusiastic personCurious and proactive by nature, with a great interest in researching and developing impactful software and AI based solutions.🧩<br>
+I'm a dedicated and enthusiastic person, curious and proactive by nature, with a great interest in researching and developing impactful software and AI based solutions.🧩<br>
 
 
 
